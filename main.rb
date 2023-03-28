@@ -1,4 +1,4 @@
-require_relative 'src/lista_doble'
+require_relative 'src/circular-doble'
 
 lista = ListaDoblementeEnlazada.new
 
